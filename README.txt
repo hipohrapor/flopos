@@ -1,3 +1,5 @@
+FlopOS 0.1
+
 to build FlopOS run: make
 to run FlopOS run: make run
 
