@@ -1,4 +1,4 @@
-FlopOS 0.1
+FlopOS 0.1 - a kernel written from scratch 
 
 to build FlopOS run: make
 to run FlopOS run: make run
